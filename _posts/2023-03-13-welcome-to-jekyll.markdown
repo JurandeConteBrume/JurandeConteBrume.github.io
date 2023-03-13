@@ -6,7 +6,6 @@ categories:
   - Jeux de société
 author: Andy
 ---
-# Le grand remplacement de Noël — Ép. 1
 
 Certains jeux sont chers à nos cœurs pour les souvenirs qu’ils nous évoquent. Je serais prêt à parier que même les plus ludiquement réfractaires d’entre nous ont une expérience du Monopoly, de la belote ou des petits chevaux. Mais voilà… Il faut bien l’avouer, certains titres commencent à sentir sérieusement la naphtaline ! Encore que, là-dessus, les avis divergent quelque peu, puisque mon épouse vient de me signifier que “c’est [moi] qui sent la naphtaline”, et ce alors même que j’ai pris une douche il n’y a pas si longtemps…
 
