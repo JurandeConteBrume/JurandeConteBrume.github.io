@@ -9,7 +9,6 @@ author: Kreusfel
 ---
 
 # Aristeia ! de Alberto Abal, Jesús Fuster, David Rosillo chez Corvus Belli
-{|<} Par Romain
 
 ![Aristeia](/_images/images/Aristeia_boite.jpg)
 
