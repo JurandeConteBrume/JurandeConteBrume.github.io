@@ -1,7 +1,12 @@
-Title: Aristeia
-Date:04-01-2019
-Tags: Conte-Rendu, Jeux de société
-Author: Romain
+---
+layout: post
+title: "Aristeia"
+date: 2019-01-04
+categories: 
+  - Jeux de société
+  - Conte-Rendu
+author: Kreusfel
+---
 
 # Aristeia ! de Alberto Abal, Jesús Fuster, David Rosillo chez Corvus Belli
 {|<} Par Romain
