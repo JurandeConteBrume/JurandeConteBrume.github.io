@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Le grand remplacement de Noël — Ép. 1"
-date:   2021-11-26
-categories: "Jeux de société"
+title: "Le grand remplacement de Noël — Ép. 1"
+date: 2021-11-26
+categories: 
+  - Jeux de société
 author: Andy
 ---
 # Le grand remplacement de Noël — Ép. 1
