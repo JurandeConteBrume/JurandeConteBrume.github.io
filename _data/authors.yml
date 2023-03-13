@@ -1,16 +1,16 @@
 # Sample Authors
 # Remove file or replace with your own
 
-Billy Rick:
-  name: Billy Rick
+Kreusfel:
+  name: Kreusfel
   picture: /images/bio-photo-2.jpg
-  twitter: "@billyrick"
-  links:
-    - title: Twitter
-      url: https://twitter.com/billyrick
-      icon: fab fa-twitter-square
+  # twitter: "@billyrick"
+  #links:
+  #  - title: Twitter
+  #    url: https://twitter.com/billyrick
+  #    icon: fab fa-twitter-square
 
-Cornelius Fiddlebone:
-  name: Cornelius Fiddlebone
+Andy:
+  name: Andy
   picture: /images/bio-photo.jpg
-  twitter: corneliusfiddlebone
+  # twitter: corneliusfiddlebone
