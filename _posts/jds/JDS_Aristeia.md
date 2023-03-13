@@ -1,0 +1,23 @@
+Title: Aristeia
+Date:04-01-2019
+Tags: Conte-Rendu, Jeux de société
+Author: Romain
+
+# Aristeia ! de Alberto Abal, Jesús Fuster, David Rosillo chez Corvus Belli
+{|<} Par Romain
+
+![Aristeia](/_images/images/Aristeia_boite.jpg)
+
+Dans le monde futuriste d'Infinity comme partout les gens aiment le spectacle. Et dans un monde en guerre rien ne vaut un bon sport violent. Au début c'était le Yajurveda où des équipes d'avatars contrôlés par des IA jouaient. Mais l'arrivée de Shona Carano, une simple humaine, dans la course a tout changé. Les robots ont disparu (ou presque) et laissé place à des humains améliorés ou non. Dans cette enceinte, l'Hexadome, le combat et le sport se sont mélangés pour créer l'Aristeia. Se battre, éliminer, se déplacer, contrôler la zone de marque... C'est le quotidien de ces athlètes qui cherchent tous à atteindre le niveau de Bahadur : vainqueur ultime de la league. 
+
+Et ce sera aussi le votre car vous allez devoir aligner votre équipe de quatre joueurs pour affronter votre adversaire. Dans la plupart des scénarios, il faudra contrôler des zones pour marquer, ensuite les variantes vont donner plus ou moins d'importance aux éliminations, la zone va se déplacer ou il va y avoir plusieurs zones en même temps. 
+
+Si je vous dis ça avant de vous expliquer plus précisement le fond du jeu, c'est que c'est justement le fond du jeu. Vous devez choisir vos personnages en fonction de l'objectif du scénario. Vous prendrez une sniper ou un samouraï s'il faut éliminer l'adversaire et plutôt une soigneuse et une armure lourde s'il faut contrôler une seule zone. Votre équipe va dicter votre stratégie. 
+
+![Aristeia](/_images/images/Aristeia_Maximus.jpg)
+
+Et une fois dans l'arène il va vous en falloir une grosse dose, beaucoup d'anticipation et quand même un peu de chance. Il y a une grosse partie d'aléatoire dans le jeu. Toute les décisions - attaque, défence, esquive, tacle - se jouent aux dés. Mais vous allez aussi avoir un deck de cartes (10 standards puis 2 pour chaque personnage). Elles sont tellement fortes que ce sont plus des jokers que des éléments à jouer tout le temps. Vous piochez en fin de tour, puis une supplémentaire si vous avez marqué et une à chaque élimination. Il n'y a aucune limite au nombre de cartes que vous pouvez jouer lors d'un tour. C'est donc une ressource limitée qui peut fondre comme neige au soleil. Ce qui est intéressant c'est que souvent ces cartes vont vous permettre de limiter le hasard des jets de dés (en ajoutant des dés à votre lancé par exemple). Donc il faut de la chance mais si vous faites en sorte d'avoir toutes les cartes en main (ohoh) cela peut très bien se passer. 
+
+Chaque personnage possède un profil bien spécifique. Il a des attaques, des actions et des pouvoirs passifs. Et souvent des switch. Le switch est une mécanique qui va rendre le jeu très nerveux et qui va donner plus de vie à vos sportifs. Sur les dés il y a plusieurs symboles : étoile, bouclier, point d'exclamation, étoile critique et bouclier critique (et face blanche). Un switch est une capacité qui s'active quand le personnage lance des dés. Il peut consomer les symboles du switch pour faire quelque chose en plus que sa simple attaque ou défence. Vous allez donc par exemple avoir des personnes qui peuvent troquer des boucliers (défensifs) contre des étoiles (offensifs). 
+
+La boite de base (environ 55€) contient de quoi faire deux équipes de quatres joueurs. Et pour le moment il existe quatre extensions de chacune quatres personnages (environ 25€). Une nouvelle qui contiendra deux nouveaux combattants est en précommande. Corvus Belli (l'éditeur) a un rythme d'une extension tous les trimestres. C'est aussi une entreprise qui mise beaucoup sur le jeu organisé : le jeu se prette très bien aux tournois (attention il faut compter une bonne heure pour une partie quand même) !
