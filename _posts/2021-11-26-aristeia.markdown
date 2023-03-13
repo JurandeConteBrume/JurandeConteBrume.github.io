@@ -3,8 +3,8 @@ layout: post
 title: "Aristeia"
 date: 2019-01-04
 categories: 
-  - Jeux de société
-  - Conte-Rendu
+  - "Jeux de société"
+  - "Conte-Rendu"
 author: Kreusfel
 ---
 
