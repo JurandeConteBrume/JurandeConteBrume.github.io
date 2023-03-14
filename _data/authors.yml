@@ -5,10 +5,10 @@ Kreusfel:
   name: Kreusfel
   picture: /images/Logos/moi.png
   # twitter: "@billyrick"
-  #links:
+  links:
     - title: Mastodon
       url: https://ludosphere.fr/@Kreusfel
-      icon: fa-mastodon
+      icon: fa-brands fa-mastodon
 
 Andy:
   name: Andy
