@@ -10,7 +10,7 @@ author: Andy
 
 # L’auberge des pirates de James Ernest, chez Origames
 
-![Photo Auberge des Pirates](/_images/images/AubergePirates_1.jpeg)
+![Photo Auberge des Pirates](/images/Images/AubergePirates_1.jpeg)
 
 *Un jeu de poche, qu'on vous dit !*
 
@@ -20,7 +20,7 @@ L’auberge des pirates, donc. Un petit jeu de 55 cartes rangées dans une petit
 
 Bon, on est chez les pirates… Et que font les pirates ? Allez, un petit effort, c’est simple, quand même ! Ils s’attaquent ! Ils se défient ! Ils s’accusent… de trucs ! Et surtout, ils… piochent !!! Quoi ? Vous ne le saviez pas ? Ben faut suivre, les amis, fianchtre ! Et pour gagner, il faut être le dernier en jeu. Duncan McLeod style, et tant pis si la référence passe au-dessus de vos jeunes années !
 
-![Photo Auberge des Pirates](/_images/images/AubergePirates_2.jpeg)
+![Photo Auberge des Pirates](/images/Images/AubergePirates_2.jpeg)
 
 *Sont pas belles, mes illus ?*
 
@@ -31,7 +31,7 @@ On commence donc le jeu avec trois cartes en main. Chaque joueur va en choisir u
 - Quand on accuse un adversaire, on pense qu’il détient une paire entre les cartes qu’il a étalées face visible sur la table et les cartes qu’il a en main. Il nous montre donc sa main afin de connaître la sentence. S’il a effectivement une paire, même s’il voulait vivre pour toujours, ben c’est raté ! Sinon, c’est votre tête qui tombe !
 - Dernière option, la pioche… Là, c’est moins mortel : il s’agit simplement de piocher une carte et de l’ajouter à sa main !
 
-![Photo Auberge des Pirates](/_images/images/AubergePirates_3.jpeg)
+![Photo Auberge des Pirates](/images/Images/AubergePirates_3.jpeg)
 
 *L'illustrissime "Homme au cucul" !!!*
 
@@ -47,9 +47,9 @@ L’Auberge des Pirates est un petit jeu qui joue dans la même cour qu’un Lov
 
 |       |  |
 | ----------- | ----------- |
-| **Choix et stratégies :** On ne peut pas dire qu’il n’y ait pas de choix à faire, dans L’Auberge des Pirates. Il faut soupeser les différentes probabilités de survivre : vais-je devoir accuser Bob parce qu’il a de grosses cartes étalées ? Le Kurgan essaie-t-il de bluffer en piochant des cartes depuis trois tours ? Marie-Thérèse a-t-elle vraiment dit que Pedro n’était qu’un ramassis de pisse de bouc en gelée ? Vous voyez ? Subtil, quoi !      | ![It's a Wonderfull World CIBLES](/_images/logos/Note_Jurande_2.png)       |
-| **Immersion dans le thème :** Les pirates, c’est presque universel, moins que les Aliens ou les dinosaures, pour certains - et là, je vais être très clair, il y en a qui ont tort ! -, m’enfin, je ne pense pas trop me tromper en disant que ce thème parle à tout le monde. Ici, il manque peut-être quand même une petite variante, genre un duel d’insultes à la Guybrush Threepwood, pour doper l’idée que je me fais d’un affrontement sanglant entre pirates redoutables… “J’avais un chien qui était plus intelligent que toi !”→ “Il a dû t’apprendre tout ce que tu sais !”... Ça, ça serait la vraie classe, non ?   | ![It's a Wonderfull World CIBLES](/_images/logos/Note_Jurande_2.png) |
-| **Beauté du matériel :** Le traitement graphique de Brett Bean, dans un style très cartoon, est vraiment sympa ! Les différents pirates ont leur style, et ont tout de suite déclenché des trouvailles de petits noms chez mes enfants ! “Gros Bedon”, “L’homme au cucul” ou … “Victor”, par exemple ! Ouais, on est un peu des cadors en surnoms, quand on s’y met !!! Les cartes sont assez épaisses. Seul petit reproche ? La boîte est pile assez grande pour les cartes, du coup, j’ai un peu de mal à les sortir quand on veut jouer...  | ![It's a Wonderfull World CIBLES](/_images/logos/Note_Jurande_3.png) |
-|**Limpidité des règles :** Il faut environ deux minutes pour expliquer le jeu, en traînant ! Et pas besoin de retourner vérifier quoi que ce soit ! Du coup, c’est clair comme une explosion de quickening ! |![It's a Wonderfull World CIBLES](/_images/logos/Note_Jurande_4.png) |
-|**Envie de rejouer :** Une vingtaine de parties sur les trois jours qui ont suivi la découverte de ce jeu ! Ça a le mérite d’être clair ! Après, je ne crois pas qu’on reste insensible à ce genre de jeux : on aime, et on s’en gave, ou on n’y trouve pas son compte et on ne joue pas la troisième partie. Personnellement, je le préfère à Love Letter pour sa plus grande simplicité.|![It's a Wonderfull World CIBLES](/_images/logos/Note_Jurande_4.png) |
-|**Spécificités et paramètres :** Plus on est de fous, plus on rit, avec ce jeu ! L’intérêt à deux ou trois joueurs est beaucoup limité qu’à six ou sept. Quinze minutes pour une partie me semble particulièrement exagéré, surtout en-dessous de six joueurs. Nous, on est entre 4 et 5 minutes de moyenne. Le 7 ans et plus est presque inexact : un enfant qui connaît les nombres entre 1 et 10 peut jouer. Il n’aura pas une idée exacte des probabilités de succès de telle ou telle action, mais, franchement, même en sachant ça, l’aventure est au bout de la pioche, dans le suspense intenable du retourné de carte !!! Basile, 5 ans, y joue, chez nous. Et il se marre, ou fait la tête, ou se marre...|![It's a Wonderfull World CIBLES](/_images/logos/Note_Jurande_3.png) |
+| **Choix et stratégies :** On ne peut pas dire qu’il n’y ait pas de choix à faire, dans L’Auberge des Pirates. Il faut soupeser les différentes probabilités de survivre : vais-je devoir accuser Bob parce qu’il a de grosses cartes étalées ? Le Kurgan essaie-t-il de bluffer en piochant des cartes depuis trois tours ? Marie-Thérèse a-t-elle vraiment dit que Pedro n’était qu’un ramassis de pisse de bouc en gelée ? Vous voyez ? Subtil, quoi !      | ![It's a Wonderfull World CIBLES](/images/logos/Note_Jurande_2.png)     |
+| **Immersion dans le thème :** Les pirates, c’est presque universel, moins que les Aliens ou les dinosaures, pour certains - et là, je vais être très clair, il y en a qui ont tort ! -, m’enfin, je ne pense pas trop me tromper en disant que ce thème parle à tout le monde. Ici, il manque peut-être quand même une petite variante, genre un duel d’insultes à la Guybrush Threepwood, pour doper l’idée que je me fais d’un affrontement sanglant entre pirates redoutables… “J’avais un chien qui était plus intelligent que toi !”→ “Il a dû t’apprendre tout ce que tu sais !”... Ça, ça serait la vraie classe, non ?   | ![It's a Wonderfull World CIBLES](/images/logos/Note_Jurande_2.png) |
+| **Beauté du matériel :** Le traitement graphique de Brett Bean, dans un style très cartoon, est vraiment sympa ! Les différents pirates ont leur style, et ont tout de suite déclenché des trouvailles de petits noms chez mes enfants ! “Gros Bedon”, “L’homme au cucul” ou … “Victor”, par exemple ! Ouais, on est un peu des cadors en surnoms, quand on s’y met !!! Les cartes sont assez épaisses. Seul petit reproche ? La boîte est pile assez grande pour les cartes, du coup, j’ai un peu de mal à les sortir quand on veut jouer...  | ![It's a Wonderfull World CIBLES](/images/logos/Note_Jurande_3.png) |
+|**Limpidité des règles :** Il faut environ deux minutes pour expliquer le jeu, en traînant ! Et pas besoin de retourner vérifier quoi que ce soit ! Du coup, c’est clair comme une explosion de quickening ! |![It's a Wonderfull World CIBLES](/images/logos/Note_Jurande_4.png) |
+|**Envie de rejouer :** Une vingtaine de parties sur les trois jours qui ont suivi la découverte de ce jeu ! Ça a le mérite d’être clair ! Après, je ne crois pas qu’on reste insensible à ce genre de jeux : on aime, et on s’en gave, ou on n’y trouve pas son compte et on ne joue pas la troisième partie. Personnellement, je le préfère à Love Letter pour sa plus grande simplicité.|![It's a Wonderfull World CIBLES](/images/logos/Note_Jurande_4.png) |
+|**Spécificités et paramètres :** Plus on est de fous, plus on rit, avec ce jeu ! L’intérêt à deux ou trois joueurs est beaucoup limité qu’à six ou sept. Quinze minutes pour une partie me semble particulièrement exagéré, surtout en-dessous de six joueurs. Nous, on est entre 4 et 5 minutes de moyenne. Le 7 ans et plus est presque inexact : un enfant qui connaît les nombres entre 1 et 10 peut jouer. Il n’aura pas une idée exacte des probabilités de succès de telle ou telle action, mais, franchement, même en sachant ça, l’aventure est au bout de la pioche, dans le suspense intenable du retourné de carte !!! Basile, 5 ans, y joue, chez nous. Et il se marre, ou fait la tête, ou se marre...|![It's a Wonderfull World CIBLES](/images/logos/Note_Jurande_3.png) |
