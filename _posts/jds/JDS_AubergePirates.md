@@ -1,10 +1,14 @@
-Title: L'auberge des pirates
-Date: 03-14-2021
-Tags: Conte-Rendu, Jeux de société
-Author: Andy
+---
+layout: post
+title: "L'auberge des pirates"
+date: 2021-03-14
+categories: 
+  - "Jeux de société"
+  - "Conte-Rendu"
+author: Andy
+---
 
 # L’auberge des pirates de James Ernest, chez Origames
-{|<} Par Andy
 
 ![Photo Auberge des Pirates](/_images/images/AubergePirates_1.jpeg)
 
