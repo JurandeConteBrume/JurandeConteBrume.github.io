@@ -6,9 +6,9 @@ Kreusfel:
   picture: /images/Logos/moi.png
   # twitter: "@billyrick"
   #links:
-  #  - title: Twitter
-  #    url: https://twitter.com/billyrick
-  #    icon: fab fa-twitter-square
+    - title: Mastodon
+      url: https://ludosphere.fr/@Kreusfel
+      icon: fa-brands fa-mastodon
 
 Andy:
   name: Andy
